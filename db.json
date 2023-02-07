@@ -1,0 +1,67 @@
+{
+  "requests": [
+    {
+      "id": 7,
+      "date": "05.02.2023",
+      "name": "Брюс Ли",
+      "phone": "+7 (555) 66-77-888",
+      "email": "kungfu@mail.ru",
+      "product": "course-wordpress",
+      "status": "complete"
+    },
+    {
+      "id": 10,
+      "date": "05.02.2023",
+      "name": "Жан Клод Ван Дам123",
+      "phone": "+7 (333) 44-55-666",
+      "email": "shpagat@mail.ru",
+      "product": "course-vue",
+      "status": "inwork"
+    },
+    {
+      "id": 11,
+      "date": "05.02.2023",
+      "name": "Чак Норрис",
+      "phone": "+7 (111) 22-33-444",
+      "email": "sheriff@mail.ru",
+      "product": "course-html",
+      "status": "new"
+    },
+    {
+      "id": 12,
+      "date": "05.02.2023",
+      "name": "Арнольд Шварценеггер",
+      "phone": "+7 (222) 33-44-555",
+      "email": "ironarnie@mail.ru",
+      "product": "course-js",
+      "status": "complete"
+    },
+    {
+      "id": 13,
+      "date": "05.02.2023",
+      "name": "Али Мухаммед",
+      "phone": "+7 (444) 55-66-777",
+      "email": "stinglikeabee@mail.ru",
+      "product": "course-php",
+      "status": "complete"
+    },
+    {
+      "id": 14,
+      "date": "06.02.2023",
+      "name": "Арнольд Шварценеггер",
+      "phone": "+7 (222) 33-44-555",
+      "email": "ironarnie@mail.ru",
+      "product": "course-js",
+      "status": "inwork"
+    },
+    {
+      "id": 16,
+      "date": "06.02.2023",
+      "name": "Чак Норрис",
+      "phone": "+7 (111) 22-33-444",
+      "email": "sheriff@mail.ru",
+      "product": "course-html",
+      "status": "inwork"
+    }
+  ]
+}
